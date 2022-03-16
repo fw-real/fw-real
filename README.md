@@ -3,7 +3,7 @@
 ---
 
 #### `Reach me via: `
-<a href="https://Cheataway.com" target="_blank"> <img src="https://discord.c99.nl/widget/theme-2/814811294963990530.png"/></a>
+<a href="https://discord.com/users/814811294963990530" target="_blank"> <img src="https://discord.c99.nl/widget/theme-2/814811294963990530.png"/></a>
   >`{Note ⚠️ : Currently on a break at discord!}`
 ---
 * ## ⛔ That's about it I guess.
