@@ -1,9 +1,5 @@
-- ## **Hey! I am a human...** :wave:
-- ## :books: **...who is currently wasting time on Javascript. :thinking:**
----
+## i know my readme sucks, i will fix up this shit when i got time
 
-#### `Reach me via: `
-<a href="https://discord.com/users/814811294963990530" target="_blank"> <img src="https://discord.c99.nl/widget/theme-2/814811294963990530.png"/></a>
-  >`{Note ⚠️ : I got termed lmfao, new account coming up soon, coz discord doesn't give a fuck about appeals!}`
----
-* ## ⛔ That's about it I guess.
+_here is my discord for now:_
+
+<a href="https://discord.com/users/868906516684607509" target="_blank"> <img src="https://discord.c99.nl/widget/theme-2/868906516684607509.png"/></a>
