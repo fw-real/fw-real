@@ -14,7 +14,7 @@ class developer_ig():
         self.name = "Nostorian"
         self.pronouns = "they/them"
         self.age = 15
-        self.language_spoken = ['en_US']
+        self.language_spoken = "en-US"
         self.email = "nostorian@proton.me"
        
     def say_hello(self):
