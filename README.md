@@ -43,4 +43,4 @@ me.say_hello()
 
 ## ![](https://cdn.discordapp.com/emojis/936723374644789370.webp?size=32&quality=lossless) Discord
 
-<a href="https://discord.com/users/936974345773920297" target="_blank"> <img src="https://discord.c99.nl/widget/theme-2/936974345773920297.png"/></a>
+<a href="https://discord.com/users/868906516684607509" target="_blank"> <img src="https://discord.c99.nl/widget/theme-2/868906516684607509.png"/></a>
