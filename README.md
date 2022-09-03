@@ -9,7 +9,7 @@
 ```
 
 ```python
-class developer_ig():
+class developer():
     def __init__(self):
         self.name = "Nostorian"
         self.pronouns = "they/them"
@@ -38,7 +38,7 @@ me.say_hello()
 ## ![](https://cdn.discordapp.com/emojis/744344773229543495.webp?size=32&quality=lossless) Skills
 
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## ![](https://cdn.discordapp.com/emojis/936723374644789370.webp?size=32&quality=lossless) Discord
