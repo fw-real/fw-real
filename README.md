@@ -21,7 +21,7 @@ class developer():
         print("Hi thanks for dropping by my profile!")
         
 
-me = developer_ig()
+me = developer()
 me.say_hello()
 ```
 
